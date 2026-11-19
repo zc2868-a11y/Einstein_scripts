@@ -1,2 +1,2 @@
 # Einstein_scripts
-EEG and ET analysis scripts
+Selected EEG and ET analysis scripts
